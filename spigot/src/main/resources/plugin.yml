@@ -1,0 +1,5 @@
+name: Citizen
+version: 1.0.0
+main: com.github.mcengine.Citizen
+author: MCEngine
+description: Citizen AI
